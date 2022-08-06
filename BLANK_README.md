@@ -18,13 +18,13 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-# About The Project
+## About The Project
 
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `repo_name`,  `project_title`, `project_description`
 
 
-## Built With
+### Built With
 
 * Tech 1
 * Tech 2
@@ -33,19 +33,19 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 <!-- LIVE DEMO -->
-## Live Demo
+### Live Demo
 
 You can check a running version of this project here
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-# Getting Started
+## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-## Prerequisites
+### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -53,7 +53,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-## Installation
+### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -74,7 +74,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- CONTRIBUTING -->
-# Contributing
+## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -92,7 +92,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- CONTACT -->
-# Contact
+## Contact
 
 Project Link: [https://github.com/blueycode/repo_name](https://github.com/blueycode/repo_name)
 
