@@ -23,6 +23,10 @@
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `repo_name`,  `project_title`, `project_description`
 
+### Assets
+
+* Asset 1
+* Asset 2
 
 ### Built With
 
