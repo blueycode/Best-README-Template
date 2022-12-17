@@ -9,7 +9,7 @@
     <em>project_description</em>
     <br />
     <br />
-    <a href="https://github.com/blueycode/repo_name">View Demo</a>
+    <a href="project_demo_link">View Demo</a>
     ·
     <a href="https://github.com/blueycode/repo_name/issues">Report Bug</a>
     ·
@@ -21,7 +21,7 @@
 ## About The Project
 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `repo_name`,  `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `repo_name`,  `project_title`, `project_description`, `project_demo_link`
 
 ### Assets
 
@@ -39,7 +39,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- LIVE DEMO -->
 ### Live Demo
 
-You can check a running version of this project here
+You can check a running version of this project <a href="project_demo_link">here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
