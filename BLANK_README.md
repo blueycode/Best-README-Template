@@ -21,7 +21,7 @@
 ## About The Project
 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `repo_name`,  `project_title`, `project_description`, `project_demo_link`
+This repository makes part of Bluey Code's project. Its entire development process has been recorded for teaching purposes and can be accessed on <a href="https://www.youtube.com/@blueycode">Bluey Code's YouTube channel</a>.
 
 ### Assets
 
